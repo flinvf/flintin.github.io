@@ -1,2 +1,2 @@
 # flintin.github.io
-github page
+github profile page
